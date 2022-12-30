@@ -1,0 +1,7 @@
+.vscode
+build
+resources
+.clang-format
+*.code-workspace
+Siv3DTest
+Siv3Dapp
